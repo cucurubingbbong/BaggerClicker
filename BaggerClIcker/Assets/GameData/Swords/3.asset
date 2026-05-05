@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b30907f1dbd6ad649b005d93c59890f3, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  swordName: "\uBC14\uC774\uD0B9 \uC18C\uB4DC"
+  upgradeLevel: 3
+  upgradePrice: 2000
+  sellPrice: 1000
+  chance: 93
+  swordSprite: {fileID: 23267520, guid: 6eb16e372762d6b4cb708c44ebfab931, type: 3}
